@@ -85,7 +85,7 @@ portfolio-rebalancer/
 
 ## 👤 作成者
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](https://github.com/garakara)
 
 ## 📝 ライセンス
 
