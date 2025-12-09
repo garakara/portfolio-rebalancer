@@ -1,0 +1,5 @@
+{
+  "total_investment": 3000000,
+  "rebalance_threshold": 5,
+  "transaction_fee": 0.001
+}
